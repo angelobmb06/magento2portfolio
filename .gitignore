@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+/app/etc/env.php
+/var/
+/pub/static/
+/pub/media/
+/generated/
